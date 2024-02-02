@@ -2,7 +2,7 @@
 
 public interface IRepositoryManager
 {
-    ICompanyRepository Company { get; set; }
-    IEmployeeRepository Employee { get; set; }
+    ICompanyRepository Company { get; }
+    IEmployeeRepository Employee { get; }
     void Save();
 }

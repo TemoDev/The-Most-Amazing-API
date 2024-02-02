@@ -15,3 +15,5 @@ C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\repository\obj\Debug\net7.0\refi
 C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\repository\obj\Debug\net7.0\Repository.pdb
 C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
 C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.dll
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.pdb

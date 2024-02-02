@@ -85,3 +85,13 @@ C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\companyemployees\bin\Debug\net7.
 C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\companyemployees\bin\Debug\net7.0\Repository.dll
 C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\companyemployees\bin\Debug\net7.0\Repository.pdb
 C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\companyemployees\bin\Debug\net7.0\Entities.pdb
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.dll
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.dll
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Services.Contracts.dll
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.pdb
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Services.Contracts.pdb
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.pdb
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Shared.dll
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Shared.pdb
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

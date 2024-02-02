@@ -13,3 +13,5 @@ C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\LoggerService\obj\Debug\net7.0\L
 C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
 C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.pdb
 C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\LoggerService\bin\Debug\net7.0\Entities.dll
+C:\Users\T.Kuliashvili\Desktop\CompanyEmployees\LoggerService\bin\Debug\net7.0\Entities.pdb
